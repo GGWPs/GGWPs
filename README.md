@@ -1,10 +1,14 @@
 # Hi there 👋
 ![GGWPs github stats](https://github-readme-stats.vercel.app/api?username=GGWPs&show_icons=true&theme=radical&count_private=true)
+
+## Welcome to my profile!
+
+My name is GGWP, I am a inspiring developer who is always looking to learn
+
+My top public languages are:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGWPs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##Welcome to my profile!
-
-My name is GGWP, I am a inspiring developer who
+Although I am also well versed in a few others.
 
 
 

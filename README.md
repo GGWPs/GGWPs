@@ -6,6 +6,7 @@
 My name is GGWP, I am a inspiring developer who is always looking to learn
 
 My top public languages are:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGWPs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Although I am also well versed in a few others.

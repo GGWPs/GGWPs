@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+![GGWPs github stats](https://github-readme-stats.vercel.app/api?username=GGWPs&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GGWPs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+##Welcome to my profile!
+
+My name is GGWP, I am a inspiring developer who
+
+
 
 <!--
 **GGWPs/GGWPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

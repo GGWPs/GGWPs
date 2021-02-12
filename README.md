@@ -11,7 +11,9 @@ My top public languages are:
 
 Although I am also well versed in Python, Golang, Scala and C#.
 
+🌱 I’m currently learning about Unity3D.
 
+😄 Pronouns: Apache Attack Helicopter or my full pronoun: Boeing AH-64 Apache
 
 <!--
 **GGWPs/GGWPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 
 ## Welcome to my profile!
 
-My name is GGWP, I am a inspiring developer who is always looking to learn
+My name is GGWP, I am an inspiring developer who is always looking to learn!
 
 My top public languages are:
 

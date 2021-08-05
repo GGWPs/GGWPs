@@ -11,7 +11,7 @@ My top public languages are:
 
 Although I am also well versed in Python, Golang, Scala and C#.
 
-🌱 I’m currently learning about Unity3D.
+🌱 I’m currently learning about Unity3D and Hyperledger
 
 😄 Pronouns: Apache Attack Helicopter or my full pronoun: Boeing AH-64 Apache
 
